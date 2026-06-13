@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "LinkSync",
+    "version": "1.0",
+    "description": "A Chrome extension to sync links across my professional social media accounts.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    }
+}
